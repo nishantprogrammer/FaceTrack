@@ -6,7 +6,6 @@ from tkinter import messagebox
 import mysql.connector
 import cv2
 
-
 class help:
     def __init__(self, root):
         self.root = root
