@@ -36,7 +36,7 @@ class developer:
         f_lbl.place(x=170,y=0,width=200, height=200)
 
         #developer info
-        dev_label=Label(main_frame,text="hello my name abhi",font=("time new roman",20,"bold"),bg="white")
+        dev_label=Label(main_frame,text="hello my name nishant",font=("time new roman",20,"bold"),bg="white")
         dev_label.place(x=0,y=5)
 
 
