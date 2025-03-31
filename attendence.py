@@ -8,7 +8,6 @@ import cv2
 import os
 import csv
 from tkinter import filedialog,messagebox
-
 mydata=[]
 class Attendence:
     def __init__(self, root):
